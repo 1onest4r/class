@@ -1,0 +1,13 @@
+- for midterm
+	- APA format
+	- bring hardcopy on class
+	- can submit it before the deadline
+- for final
+	- to be determined
+- group project
+	- the main topic is "FEAR"
+	![[Pasted image 20260831105332.png]]
+	- 2-3 member
+	- follow APA format (citation)
+	- include 2-3 research paper (preferably resent one)
+	- peer evaluation
