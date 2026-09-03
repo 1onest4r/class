@@ -1,1 +1,2 @@
 - [ ] watch the little man by John B Watson
+- [ ] reread the theories

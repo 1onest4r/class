@@ -1,2 +1,2 @@
-- [ ] home work 9/1/2026
-	- find (mean, mode, average, range, quantiles, variance, standard deviation)
+- [x] home work 9/1/2026
+	- find (mean, mode, average, range, quantiles, interquartile, variance, standard deviation)
