@@ -1,1 +1,2 @@
 - [ ] do ![[Pasted image 20260902120348.png]]
+- [ ] also practice
