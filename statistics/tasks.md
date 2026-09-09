@@ -1,2 +1,3 @@
 - [x] home work 9/1/2026
 	- find (mean, mode, average, range, quantiles, interquartile, variance, standard deviation)
+- [ ] redo the IX/8 ppt
