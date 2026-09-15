@@ -2,4 +2,4 @@
 - cloud based
 - my own idea
 - document everything ig
-- [ ] finish the requirement document
+- [x] finish the requirement document
