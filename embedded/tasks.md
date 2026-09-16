@@ -1,2 +1,3 @@
-- [ ] do ![[Pasted image 20260902120348.png]]
-- [ ] also practice
+- [x] do ![[Pasted image 20260902120348.png]]
+- [x] also practice
+- [ ] do the all the pyramid exercises

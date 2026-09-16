@@ -1,0 +1,1 @@
+- c is pass by value meaning every variable has a copy and function only ever sees the copy of the variable and if we wish to access the actual value we use pointers
