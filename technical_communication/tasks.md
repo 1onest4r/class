@@ -1,3 +1,4 @@
 - [x] read chapter 3
 	- your organization could find itself the subject of a criminal case or a civil suit, and you could lose your job and your reputation.
-- [ ] chapter 1 worksheet 
+- [x] chapter 1 worksheet 
+- [ ] chapter 2 worksheet

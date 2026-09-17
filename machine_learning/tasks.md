@@ -1,1 +1,2 @@
-- [ ] do first assignment (fast!!!!)
+- [ ] do first assignment (fast!!!! using jupyter notebook)
+- [ ] set up the example code by the book

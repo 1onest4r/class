@@ -3,3 +3,5 @@
 - my own idea
 - document everything ig
 - [x] finish the requirement document
+- [ ] do the assignment 2
+- [ ] do the assignment 3
