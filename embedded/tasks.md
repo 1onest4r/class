@@ -1,3 +1,4 @@
 - [x] do ![[Pasted image 20260902120348.png]]
 - [x] also practice
-- [ ] do the all the pyramid exercises
+- [x] do the all the pyramid exercises
+- [x] practice for the quiz about memory, pointer, variables

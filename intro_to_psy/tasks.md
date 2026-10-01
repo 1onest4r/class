@@ -1,3 +1,4 @@
 - [x] watch the little man by John B Watson
 - [x] reread the theories
 - [x] redo the lectures and make notes on it
+- [x] check in the last post

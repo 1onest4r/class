@@ -1,0 +1,6 @@
+- embedded
+- software
+- technical
+- stat
+- ML
+- psy

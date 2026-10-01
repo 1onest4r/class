@@ -2,3 +2,4 @@
 	- find (mean, mode, average, range, quantiles, interquartile, variance, standard deviation)
 - [x] redo the IX/8 ppt
 - [x] redo the IX/10 ppt
+- [x] do the last assignment
